@@ -1,0 +1,16 @@
+{
+  "name": "kafka_healofy",
+  "version": "1.0.0",
+  "description": "Its the Kafka Library to send and Receice msg",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jigar Shah",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "kafka-node": "^2.4.1",
+    "morgan": "^1.9.0"
+  }
+}
